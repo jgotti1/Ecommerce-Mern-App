@@ -1,0 +1,16 @@
+main {
+  min-height: 80vh;
+  padding: 20px;
+}
+.link {
+  margin-left: auto;
+}
+.nav-bar {
+  height: 75px;
+}
+a {
+  text-decoration: none;
+}
+.rating span {
+  margin: 0.2rem;
+}
